@@ -1,0 +1,23 @@
+resumo da aula de ontem
+
+node js
+install -g @ionic/cli
+na pasta do projeto (prompt)
+ionic start nome do projeto blank
+visual studio code (open folder)
+google chrome
+ionic serve
+
+aula de hj 
+
+cd tabs
+cd sidemenu
+cd blank
+cd \ionic
+localhost:8100
+ionic serve --lab
+src-app-home
+id
+class
+lorem ipsum
+<ion-button>receber</ion-button>

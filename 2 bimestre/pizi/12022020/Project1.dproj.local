@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/02/12 19:35:06.338,=C:\Users\Etec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/12 19:47:38.544,F:\2 bimestre\pizi\12022020\projetounit1.dfm=C:\Users\Etec\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/02/12 19:47:38.544,F:\2 bimestre\pizi\12022020\projetounit1.pas=C:\Users\Etec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/12 19:57:58.613,F:\2 bimestre\pizi\12022020\projetounit2.dfm=F:\2 bimestre\pizi\12022020\projetounit1.dfm</Transaction>
+    <Transaction>2020/02/12 19:57:58.613,F:\2 bimestre\pizi\12022020\projetounit2.pas=F:\2 bimestre\pizi\12022020\projetounit1.pas</Transaction>
+    <Transaction>2020/02/12 20:01:30.192,F:\2 bimestre\pizi\12022020\Project1.dproj=C:\Users\Etec\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

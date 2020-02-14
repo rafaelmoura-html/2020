@@ -1,0 +1,42 @@
+1° abrir xampp
+
+2° iniciar mysql
+
+3° abrir prompt msdos
+
+4° abrir mysql 
+   digitar mysql -u root -p
+
+comandos
+
+show databases; = exibe a relação de bd do sistema
+
+create database aula; = criar um banco de dados no mysql
+
+drop database aula; = exclui o banco de dados que vc criou 
+
+use aula; = seleciona um banco de dados pera produção
+
+create table pessoas(
+    codigo int,
+    nome varchar(40),
+    email varchar(60));
+
+show tables;
+
+create table produtos(
+    codbar int,
+    descricao varchar(40),
+    valor decimal (8,2));
+
+drop tables nome da tabela;
+
+show columns from pessoas;
+
+insert into pessoas (codigo,nome,email)
+values (1, 'Rafael', 'mrafa46093@gmail.com');
+
+insert into pessoas (codigo,nome,email)
+values (2, 'Ana', 'ana@teste');
+
+select * from pessoas;
